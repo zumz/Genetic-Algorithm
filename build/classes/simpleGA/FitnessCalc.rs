@@ -1,0 +1,1 @@
+simpleGa.FitnessCalc
